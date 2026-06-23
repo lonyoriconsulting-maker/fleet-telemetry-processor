@@ -3,4 +3,4 @@
 - [ ] Step 1: Scaffold python script structure and sample telemetry data
 - [ ] Step 2: Implement data cleaning logic for missing GPS coordinates
 - [ ] Step 3: Calculate total trip distance and fuel efficiency metrics
-- [ ] Step 4: Export clean metrics to an Excel summary dashboard
+- [ ] Step 4: Export clean metrics to an Excel summary dashboard.
