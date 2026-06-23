@@ -3,3 +3,4 @@ timestamp,vehicle_id,latitude,longitude,fuel_level_percent,odometer_km
 2026-06-23 06:15:00,TRUCK-01,-1.2980,36.8300,98,120465
 2026-06-23 06:30:00,TRUCK-01,,36.8410,95,120480
 2026-06-23 06:45:00,TRUCK-01,-1.3100,36.8550,92,120500
+
